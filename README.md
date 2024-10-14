@@ -12,7 +12,7 @@
 🌱 I’m currently learning Java.
 
 ## My statistics 📈 <br>
-![](https://github-readme-stats.vercel.app/api?username=nadia2622&show_icons=true&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=abbyy22&show_icons=true&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abbyy22&theme=github_dark)
 
 ![](https://activity-graph.herokuapp.com/graph?username=abbyy22&theme=react-dark)
