@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--BIO-->
-🔭 My name is Abidah Fatimatuzzahrah. I’m 18 years old. I live in Central Java, Indonesia, 
+🔭 My name is Abidah Fatimatuzzahrah. I’m 19 years old. I live in Central Java, Indonesia, 
 
 🏫 I'm a student at Telkom University, Software Engineering
 
