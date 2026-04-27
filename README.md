@@ -7,9 +7,7 @@
 <!--BIO-->
 🔭 My name is Abidah Fatimatuzzahrah. I’m 18 years old. I live in Central Java, Indonesia, 
 
-🏫 I'm a student at Telkom University, Purwokerto Campus
-
-🌱 I’m currently learning Java.
+🏫 I'm a student at Telkom University, Software Engineering
 
 ## My statistics 📈 <br>
 ![](https://github-readme-stats.vercel.app/api?username=abbyy22&show_icons=true&theme=github_dark)
